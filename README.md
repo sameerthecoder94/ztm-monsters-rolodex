@@ -55,3 +55,4 @@
 - Input Search Box Component
 - Searching & Filtering Monsters (using `filter()` method and `includes()` method)
 - Storing Original Data
+- Optimizations & Best Practices
