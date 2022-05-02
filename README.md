@@ -1,5 +1,5 @@
 # Monsters Rolodex Concepts Flow
-- Class Components
+## Class Components
 - Component State
 - `setState()`
 - States and Shallow Merge
@@ -56,3 +56,7 @@
 - Searching & Filtering Monsters (using `filter()` method and `includes()` method)
 - Storing Original Data
 - Optimizations & Best Practices
+- Understanding Components
+  - [__React__](https://reactjs.org/docs/components-and-props.html)
+  - CardList Component
+  - SearchBox Component
