@@ -61,3 +61,8 @@
   - CardList Component
     - Component Props
   - SearchBox Component
+- __Rendering and Re-rendering part 2__
+  - __Note__: Components re-render based on two conditions:
+    - When `setState()` gets called
+    - States are changed or Props are updated
+    This is how primarily React determines you want to re-render.
