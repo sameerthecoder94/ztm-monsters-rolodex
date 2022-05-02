@@ -59,4 +59,5 @@
 - Understanding Components
   - [__React__](https://reactjs.org/docs/components-and-props.html)
   - CardList Component
+    - Component Props
   - SearchBox Component
