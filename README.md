@@ -53,3 +53,4 @@
     ```
 - Renders & Re-renders flow in React
 - Input Search Box Component
+- Searching & Filtering Monsters
