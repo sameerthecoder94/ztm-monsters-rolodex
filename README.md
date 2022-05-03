@@ -40,3 +40,5 @@
     - States are changed or Props are updated
     This is how primarily React determines you want to re-render.
 - __CSS in React__
+- Finishing Touches
+---
