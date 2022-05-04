@@ -42,3 +42,9 @@
 - __CSS in React__
 - Finishing Touches
 ---
+## Functional Components
+- Pure & Impure functions
+- `useState()` Hook
+- Functional Component Re-rendering
+- Infinite Re-rendering
+- `useEffect()` Hook
