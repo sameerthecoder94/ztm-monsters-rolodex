@@ -48,3 +48,4 @@
 - Functional Component Re-rendering
 - Infinite Re-rendering
 - `useEffect()` Hook
+- Refactoring Class Components to `Functional Components` Completed
